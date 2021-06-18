@@ -463,3 +463,27 @@ Tiempo;No. de serie;Estado;Posición;FV este;FV oeste;FV abajo;Viento;Interruptor
 09:20:17;07110505700;Reposo;A:110.4° / E:43.3°;515 W/m2;7 W/m2;581 W/m2;0 km/h;Vertical;Detenido
 09:20:19;76150801125;Reposo;A:67.6° / E:87.0°;64 W/m2;330 W/m2;7 W/m2;0 km/h;Horizontal;Detenido
 09:20:21;76250801666;Reposo;A:62.0° / E:87.0°;;;;;Horizontal;Detenido
+
+********************************************************
+ Grabación de datos SunControl
+ Versión V1.6.2
+ Grupo 7: G
+ Fecha: 18.06.2021
+********************************************************
+
+Tiempo;No. de serie;Estado;Posición;FV este;FV oeste;FV abajo;Viento;Interruptor;Tracción
+09:39:34;76150801123;Error enum.;;;;;;;
+09:39:37;76150801154;Comunicación;;63 W/m2;394 W/m2;39 W/m2;0 km/h;;
+09:39:42;76150801178;Offline;;;;;;;
+09:39:46;76150801144;Offline;;;;;;;
+09:39:51;76150801177;Comunicación;;;;;;;
+09:39:55;07110505700;Offline;;;;;;;
+09:40:05;76150801125;Comunicación;;;;;0 km/h;;
+09:40:11;76250801666;Offline;;;;;;;
+09:47:21;76150801123;Error enum.;;;;;;;
+09:47:32;76150801154;Carrera de pos.;A:53.8° / E:72.4°;70 W/m2;414 W/m2;38 W/m2;0 km/h;;Vertical
+09:47:34;76150801178;Comunicación;;;;;;;
+09:47:36;76150801144;Comunicación;;506 W/m2;500 W/m2;643 W/m2;;;
+09:47:40;76150801177;Alinear;;186 W/m2;7 W/m2;363 W/m2;0 km/h;Este / Vertical;Detenido
+09:47:46;76150801125;Comunicación;;;;;0 km/h;;
+09:47:48;76250801666;Carrera de pos.;;7 W/m2;473 W/m2;7 W/m2;4 km/h;;Vertical
