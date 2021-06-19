@@ -2440,3 +2440,41 @@ Tiempo;No. de serie;Estado;Posición;FV este;FV oeste;FV abajo;Viento;Interruptor
 21:13:08;06093001003;Pulso tracc. ACi;;13 W/m2;10 W/m2;13 W/m2;6 km/h;Horizontal;Detenido
 21:13:09;07110505780;Reposo;A:298.8° / E:43.2°;10 W/m2;10 W/m2;10 W/m2;10 km/h;Vertical;Detenido
 21:13:11;06123101936;Reposo;A:298.9° / E:43.3°;10 W/m2;10 W/m2;10 W/m2;5 km/h;Vertical;Detenido
+21:22:10;06103101126;Modo directo;A:71.6° / E:87.0°;10 W/m2;22 W/m2;7 W/m2;0 km/h;Horizontal;Detenido
+21:22:11;06093001031;Reposo;A:301.5° / E:43.4°;10 W/m2;10 W/m2;10 W/m2;6 km/h;Vertical;Detenido
+21:22:13;06093001028;Reposo;A:301.5° / E:43.5°;22 W/m2;10 W/m2;22 W/m2;0 km/h;Vertical;Detenido
+21:22:23;06093001029;Reposo;A:301.5° / E:44.7°;10 W/m2;10 W/m2;10 W/m2;13 km/h;Vertical;Detenido
+21:22:24;06103101124;Fusible tracc.;;10 W/m2;10 W/m2;10 W/m2;4 km/h;Horizontal;Detenido
+21:22:25;06093001006;Reposo;A:301.5° / E:34.2°;10 W/m2;10 W/m2;10 W/m2;0 km/h;Vertical;Detenido
+21:22:26;06093001004;Reposo;A:301.5° / E:43.0°;10 W/m2;10 W/m2;10 W/m2;;Vertical;Detenido
+21:22:28;06093001007;Fusible tracc.;;10 W/m2;10 W/m2;10 W/m2;8 km/h;Horizontal;Detenido
+21:22:29;06093001081;Sobrecarga de la tracción EL;;22 W/m2;7 W/m2;18 W/m2;7 km/h;Este / Horizontal;Detenido
+21:22:31;06093001083;Carrera de ref.;A:68.2° / E:87.0°;10 W/m2;10 W/m2;10 W/m2;52 km/h;Oeste/ Horizontal;Este (R)
+21:22:32;06093001032;Reposo;A:301.5° / E:43.5°;10 W/m2;10 W/m2;10 W/m2;0 km/h;Vertical;Detenido
+21:22:34;07063003247;Reposo;A:301.5° / E:43.5°;14 W/m2;10 W/m2;13 W/m2;9 km/h;Vertical;Detenido
+21:22:36;06093001023;Reposo;A:301.5° / E:42.9°;10 W/m2;10 W/m2;10 W/m2;0 km/h;Vertical;Detenido
+21:22:37;06093001015;Reposo;A:301.5° / E:43.3°;10 W/m2;10 W/m2;10 W/m2;9 km/h;Vertical;Detenido
+21:22:38;07022802734;Reposo;A:301.5° / E:43.6°;10 W/m2;10 W/m2;10 W/m2;;Vertical;Detenido
+21:22:40;06093001005;Reposo;A:301.5° / E:43.6°;10 W/m2;10 W/m2;10 W/m2;0 km/h;Vertical;Detenido
+21:22:41;06093001003;Pulso tracc. ACi;;13 W/m2;10 W/m2;13 W/m2;9 km/h;Horizontal;Detenido
+21:22:43;07110505780;Reposo;A:301.4° / E:43.2°;10 W/m2;10 W/m2;10 W/m2;12 km/h;Vertical;Detenido
+21:22:44;06123101936;Reposo;A:301.5° / E:43.3°;10 W/m2;10 W/m2;10 W/m2;9 km/h;Vertical;Detenido
+21:30:02;06123101936;Carrera de pos.;A:301.5° / E:56.1°;10 W/m2;10 W/m2;10 W/m2;13 km/h;;Horizontal
+21:33:06;06103101126;Fusible tracc.;;10 W/m2;22 W/m2;7 W/m2;0 km/h;Horizontal;Detenido
+21:33:09;06093001031;Reposo;A:301.5° / E:87.0°;10 W/m2;10 W/m2;10 W/m2;7 km/h;Horizontal;Detenido
+21:33:18;06093001028;Reposo;A:301.5° / E:87.0°;22 W/m2;10 W/m2;22 W/m2;0 km/h;Horizontal;Detenido
+21:33:20;06093001029;Reposo;A:301.5° / E:87.0°;10 W/m2;10 W/m2;10 W/m2;14 km/h;Horizontal;Detenido
+21:33:21;06103101124;Fusible tracc.;;10 W/m2;10 W/m2;10 W/m2;8 km/h;Horizontal;Detenido
+21:33:22;06093001006;Reposo;A:301.5° / E:87.0°;10 W/m2;10 W/m2;10 W/m2;0 km/h;Horizontal;Detenido
+21:33:23;06093001004;Reposo;A:301.5° / E:87.0°;10 W/m2;10 W/m2;10 W/m2;;Horizontal;Detenido
+21:33:24;06093001007;Fusible tracc.;;10 W/m2;10 W/m2;10 W/m2;8 km/h;Horizontal;Detenido
+21:33:26;06093001081;Sobrecarga de la tracción EL;;22 W/m2;7 W/m2;18 W/m2;7 km/h;Este / Horizontal;Detenido
+21:33:28;06093001083;Carrera de ref.;A:287.2° / E:87.0°;10 W/m2;10 W/m2;10 W/m2;102 km/h;Oeste/ Horizontal;Este (R)
+21:33:29;06093001032;Reposo;A:301.5° / E:87.0°;10 W/m2;10 W/m2;10 W/m2;0 km/h;Horizontal;Detenido
+21:33:32;07063003247;Reposo;A:301.5° / E:87.0°;14 W/m2;10 W/m2;13 W/m2;9 km/h;Horizontal;Detenido
+21:33:33;06093001023;Reposo;A:301.5° / E:87.0°;10 W/m2;10 W/m2;10 W/m2;0 km/h;Horizontal;Detenido
+21:33:34;06093001015;Reposo;A:301.5° / E:87.0°;10 W/m2;10 W/m2;10 W/m2;14 km/h;Horizontal;Detenido
+21:33:35;07022802734;Reposo;A:301.5° / E:87.0°;10 W/m2;10 W/m2;10 W/m2;;Horizontal;Detenido
+21:33:37;06093001005;Reposo;A:301.5° / E:87.0°;10 W/m2;10 W/m2;10 W/m2;0 km/h;Horizontal;Detenido
+21:33:38;06093001003;Pulso tracc. ACi;;13 W/m2;10 W/m2;13 W/m2;8 km/h;Horizontal;Detenido
+21:33:39;07110505780;Reposo;A:301.4° / E:87.0°;10 W/m2;10 W/m2;10 W/m2;15 km/h;Horizontal;Detenido
