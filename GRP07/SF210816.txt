@@ -1112,3 +1112,29 @@ Tiempo;No. de serie;Estado;Posición;FV este;FV oeste;FV abajo;Viento;Interruptor
 20:20:23;07110505700;Reposo;A:283.0° / E:43.3°;74 W/m2;7 W/m2;204 W/m2;23 km/h;Vertical;Detenido
 20:20:25;76150801125;Reposo;A:283.1° / E:43.9°;69 W/m2;111 W/m2;7 W/m2;0 km/h;Vertical;Detenido
 20:20:26;76250801666;Reposo;A:283.1° / E:43.5°;7 W/m2;102 W/m2;7 W/m2;15 km/h;Vertical;Detenido
+
+********************************************************
+ Grabación de datos SunControl
+ Versión V1.6.2
+ Grupo 7: G
+ Fecha: 16.08.2021
+********************************************************
+
+Tiempo;No. de serie;Estado;Posición;FV este;FV oeste;FV abajo;Viento;Interruptor;Tracción
+20:28:26;06103101124;Error enum.;;;;;;;
+20:28:28;76150801123;Carrera de ref.;;19 W/m2;32 W/m2;109 W/m2;21 km/h;Horizontal;Este (R)
+20:28:29;76150801154;Carrera de ref.;;19 W/m2;32 W/m2;10 W/m2;29 km/h;Horizontal;Este (R)
+20:28:31;76150801178;Carrera de ref.;;38 W/m2;98 W/m2;148 W/m2;18 km/h;Vertical;Este (R)
+20:28:35;76150801144;Carrera de ref.;;67 W/m2;52 W/m2;161 W/m2;17 km/h;Vertical;Este (R)
+20:28:39;76150801177;Carrera de ref.;;25 W/m2;11 W/m2;136 W/m2;17 km/h;;Este (R)
+20:28:41;07110505700;Carrera de pos.;;21 W/m2;7 W/m2;150 W/m2;28 km/h;;Horizontal
+20:28:45;76150801125;Carrera de ref.;;24 W/m2;111 W/m2;7 W/m2;0 km/h;Vertical;Este (R)
+20:28:47;76250801666;Carrera de ref.;;7 W/m2;106 W/m2;7 W/m2;17 km/h;Vertical;Este (R)
+20:34:48;06103101124;Error enum.;;;;;;;
+20:34:49;76150801123;Carrera de ref.;A:169.8° / E:87.0°;16 W/m2;32 W/m2;18 W/m2;14 km/h;Horizontal;Este (R)
+20:34:51;76150801154;Carrera de ref.;A:170.5° / E:87.0°;16 W/m2;32 W/m2;10 W/m2;26 km/h;Horizontal;Este (R)
+20:34:52;76150801178;Carrera de ref.;A:215.1° / E:43.5°;18 W/m2;32 W/m2;21 W/m2;14 km/h;Vertical;Este (R)
+20:34:53;76150801144;Carrera de ref.;A:45.0° / E:43.4°;16 W/m2;30 W/m2;18 W/m2;15 km/h;Vertical;Este (R)
+20:34:55;76150801177;Carrera de ref.;A:168.4° / E:47.3°;18 W/m2;11 W/m2;18 W/m2;17 km/h;;Este (R)
+20:35:09;76150801125;Carrera de ref.;A:164.0° / E:43.9°;16 W/m2;25 W/m2;7 W/m2;0 km/h;Vertical;Este (R)
+20:35:10;76250801666;Carrera de ref.;A:164.9° / E:43.5°;7 W/m2;24 W/m2;7 W/m2;16 km/h;Vertical;Este (R)
