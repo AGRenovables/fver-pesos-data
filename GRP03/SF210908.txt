@@ -1099,3 +1099,40 @@ Tiempo;No. de serie;Estado;Posición;FV este;FV oeste;FV abajo;Viento;Interruptor
 09:44:34;06123101936;Reposo;A:104.0° / E:43.2°;240 W/m2;562 W/m2;560 W/m2;0 km/h;Vertical;Detenido
 09:48:32;06093001007;Alinear;A:105.5° / E:58.2°;10 W/m2;417 W/m2;10 W/m2;0 km/h;;Horizontal
 09:48:33;06093001031;Carrera de pos.;A:116.7° / E:43.2°;388 W/m2;394 W/m2;624 W/m2;0 km/h;Vertical;Detenido
+09:53:15;06093001007;Alinear;A:108.3° / E:68.7°;10 W/m2;336 W/m2;10 W/m2;0 km/h;;Oeste
+09:53:15;06093001031;Reposo;A:118.2° / E:43.2°;405 W/m2;403 W/m2;635 W/m2;0 km/h;Vertical;Detenido
+09:53:16;06093001028;Reposo;A:105.5° / E:43.4°;434 W/m2;428 W/m2;623 W/m2;0 km/h;Vertical;Detenido
+09:53:18;06093001029;Alinear;A:119.5° / E:44.5°;347 W/m2;450 W/m2;627 W/m2;0 km/h;Vertical;Oeste
+09:53:19;06123101598;Reposo;A:114.9° / E:52.1°;416 W/m2;413 W/m2;638 W/m2;0 km/h;Vertical;Detenido
+09:53:33;06093001006;Reposo;A:105.5° / E:58.3°;217 W/m2;447 W/m2;615 W/m2;0 km/h;;Horizontal
+09:53:34;06093001081;;A:105.5° / E:67.5°;;;;;;
+09:53:48;06093001083;Error enum.;;;;;;;
+09:53:52;06093001023;Reposo;A:105.5° / E:42.9°;349 W/m2;487 W/m2;599 W/m2;0 km/h;Vertical;Detenido
+09:53:53;06093001015;Reposo;A:117.3° / E:42.9°;270 W/m2;537 W/m2;585 W/m2;0 km/h;Vertical;Detenido
+09:53:55;07022802734;Carrera de ref.;A:105.5° / E:74.6°;151 W/m2;284 W/m2;719 W/m2;;;Horizontal
+09:54:07;06093001005;Carrera de pos.;A:111.5° / E:43.6°;430 W/m2;380 W/m2;606 W/m2;0 km/h;Vertical;Este
+09:54:08;06093001003;Error enum.;;;;;;;
+09:54:09;07110505780;Carrera de pos.;A:106.2° / E:46.9°;279 W/m2;350 W/m2;187 W/m2;0 km/h;;Oeste
+09:54:10;06103101126;Reposo;A:45.0° / E:87.0°;515 W/m2;52 W/m2;375 W/m2;0 km/h;Oeste/ Horizontal;Detenido
+09:54:12;06123101936;Carrera de pos.;A:127.0° / E:43.2°;411 W/m2;450 W/m2;618 W/m2;0 km/h;Vertical;Este
+09:58:45;06093001004;Reposo;A:107.1° / E:42.8°;363 W/m2;528 W/m2;151 W/m2;;Vertical;Detenido
+09:58:54;06093001032;Reposo;A:107.1° / E:43.2°;374 W/m2;487 W/m2;599 W/m2;0 km/h;Vertical;Detenido
+09:58:56;07063003247;Reposo;A:107.1° / E:43.9°;425 W/m2;10 W/m2;613 W/m2;0 km/h;Vertical;Detenido
+10:03:23;06093001007;Reposo;A:108.7° / E:42.6°;10 W/m2;556 W/m2;10 W/m2;0 km/h;Vertical;Detenido
+10:03:24;06093001031;Reposo;A:108.7° / E:43.2°;350 W/m2;489 W/m2;626 W/m2;0 km/h;Vertical;Detenido
+10:03:25;06093001028;Reposo;A:108.7° / E:43.4°;462 W/m2;438 W/m2;621 W/m2;0 km/h;Vertical;Detenido
+10:03:26;06093001029;Reposo;A:108.7° / E:44.5°;284 W/m2;543 W/m2;606 W/m2;0 km/h;Vertical;Detenido
+10:03:44;06093001006;Reposo;A:108.7° / E:34.3°;372 W/m2;578 W/m2;489 W/m2;0 km/h;Vertical;Detenido
+10:03:44;06093001004;Reposo;A:108.7° / E:34.3°;363 W/m2;528 W/m2;151 W/m2;;Vertical;Detenido
+10:03:47;06093001081;Comunicación;;;;;;;
+10:04:01;06093001083;Error enum.;;;;;;;
+10:04:03;06093001032;Reposo;A:108.7° / E:43.2°;385 W/m2;490 W/m2;598 W/m2;0 km/h;Vertical;Detenido
+10:04:04;07063003247;Reposo;A:108.7° / E:43.9°;438 W/m2;10 W/m2;612 W/m2;0 km/h;Vertical;Detenido
+10:04:05;06093001023;Reposo;A:108.7° / E:42.9°;383 W/m2;518 W/m2;602 W/m2;0 km/h;Vertical;Detenido
+10:04:16;06093001015;Reposo;A:108.7° / E:43.3°;301 W/m2;570 W/m2;593 W/m2;0 km/h;Vertical;Detenido
+10:04:17;07022802734;Reposo;A:108.7° / E:43.4°;394 W/m2;525 W/m2;612 W/m2;;Vertical;Detenido
+10:04:18;06093001005;Reposo;A:108.7° / E:43.6°;413 W/m2;424 W/m2;601 W/m2;0 km/h;Vertical;Detenido
+10:04:19;06093001003;Error enum.;;;;;;;
+10:04:20;07110505780;Reposo;A:108.6° / E:43.6°;312 W/m2;378 W/m2;150 W/m2;5 km/h;Vertical;Detenido
+10:04:22;06103101126;Reposo;A:45.0° / E:87.0°;525 W/m2;53 W/m2;406 W/m2;0 km/h;Oeste/ Horizontal;Detenido
+10:04:23;06123101936;Reposo;A:108.7° / E:43.2°;280 W/m2;599 W/m2;567 W/m2;0 km/h;Vertical;Detenido
