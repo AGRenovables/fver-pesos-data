@@ -1363,3 +1363,29 @@ Tiempo;No. de serie;Estado;Posición;FV este;FV oeste;FV abajo;Viento;Interruptor
 11:20:56;06093001082;Reposo;A:126.0° / E:47.8°;448 W/m2;775 W/m2;615 W/m2;3 km/h;;Detenido
 11:20:57;07111906159;Reposo;A:126.0° / E:49.1°;450 W/m2;714 W/m2;587 W/m2;6 km/h;;Detenido
 11:20:58;06103101119;Alinear;A:126.0° / E:50.6°;378 W/m2;787 W/m2;7 W/m2;4 km/h;;Horizontal
+11:21:03;06103101127;Error enum.;;;;;;;
+11:21:13;06113001434;Reposo;A:126.0° / E:55.8°;406 W/m2;7 W/m2;697 W/m2;0 km/h;Vertical;Detenido
+11:21:15;07063003269;Comunicación;;102 W/m2;402 W/m2;200 W/m2;;;
+11:21:15;06093001016;Reposo;A:144.3° / E:43.3°;615 W/m2;610 W/m2;657 W/m2;0 km/h;Vertical;Detenido
+11:21:18;06093001079;Comunicación;;;;;;;
+11:21:20;06103101120;Comunicación;;;;;;;
+11:21:29;75301119567;Reposo;;7 W/m2;330 W/m2;7 W/m2;8 km/h;Horizontal;Detenido
+11:21:30;06093001017;Error enum.;;;;;;;
+11:26:33;06103101121;Carrera de ref.;;;;;;;Horizontal
+11:31:18;06093001080;Alinear;A:142.7° / E:43.9°;553 W/m2;630 W/m2;638 W/m2;0 km/h;Vertical;Oeste
+11:31:19;06053000802;Alinear;A:142.9° / E:50.7°;515 W/m2;606 W/m2;663 W/m2;0 km/h;Vertical;Oeste
+11:31:20;06093001010;Alinear;A:143.1° / E:40.5°;133 W/m2;441 W/m2;551 W/m2;0 km/h;Vertical;Oeste
+11:31:22;06093001014;Alinear;A:113.2° / E:43.8°;366 W/m2;7 W/m2;462 W/m2;0 km/h;Vertical;Este
+11:31:23;06123102079;Alinear;A:128.1° / E:66.0°;326 W/m2;601 W/m2;7 W/m2;0 km/h;;Horizontal
+11:31:24;06093001078;Alinear;A:128.1° / E:66.1°;7 W/m2;834 W/m2;7 W/m2;0 km/h;;Horizontal
+11:31:32;06083000860;Alinear;A:128.0° / E:73.9°;10 W/m2;553 W/m2;8 W/m2;8 km/h;;Horizontal
+11:31:32;76150801155;Error enum.;;;;;;;
+11:31:36;06093001082;Alinear;A:141.5° / E:49.2°;534 W/m2;686 W/m2;641 W/m2;5 km/h;;Oeste
+11:31:37;07111906159;Alinear;A:141.3° / E:50.5°;531 W/m2;641 W/m2;609 W/m2;8 km/h;;Oeste
+11:31:38;06103101119;Alinear;A:128.1° / E:69.0°;268 W/m2;658 W/m2;7 W/m2;6 km/h;;Horizontal
+11:31:39;06103101127;Error enum.;;;;;;;
+11:31:41;06113001434;Alinear;A:108.6° / E:55.8°;277 W/m2;7 W/m2;585 W/m2;0 km/h;Vertical;Este
+11:31:55;06093001079;Carrera de pos.;;;;;;;Vertical
+11:31:57;06103101120;Comunicación;;431 W/m2;615 W/m2;655 W/m2;;;
+11:31:59;06103101121;Carrera de pos.;;517 W/m2;683 W/m2;585 W/m2;0 km/h;Vertical;Este
+11:32:01;06093001017;Error enum.;;;;;;;
